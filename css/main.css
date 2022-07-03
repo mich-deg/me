@@ -1,0 +1,12 @@
+.section-one {
+  display: flex;
+}
+.section-one__content {
+  display: inline-block;
+  margin: 2rem;
+  width: auto;
+}
+.section-one__content img {
+  width: 160px;
+  border-radius: 50%;
+}
